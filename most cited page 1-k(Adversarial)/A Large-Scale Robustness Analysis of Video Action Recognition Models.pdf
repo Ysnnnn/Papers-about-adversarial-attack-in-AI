@@ -9543,3 +9543,122 @@ trailer
 startxref
 1927491
 %%EOF
+2 0 obj<</Length 5776/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 9.1-c001 79.2a0d8d9, 2023/03/14-11:19:46        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:prism="http://prismstandard.org/namespaces/basic/3.0/"
+            xmlns:jav="http://www.niso.org/schemas/jav/1.0/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:pdfx="http://ns.adobe.com/pdfx/1.3/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/">
+         <dc:format>application/pdf</dc:format>
+         <dc:publisher>
+            <rdf:Seq>
+               <rdf:li>IEEE</rdf:li>
+            </rdf:Seq>
+         </dc:publisher>
+         <dc:description>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR);2023; ; ;10.1109/CVPR52729.2023.01412</rdf:li>
+               <rdf:li xml:lang="x-repair">2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR);2023; ; ;10.1109/CVPR52729.2023.01412</rdf:li>
+            </rdf:Alt>
+         </dc:description>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">A Large-Scale Robustness Analysis of Video Action Recognition Models</rdf:li>
+               <rdf:li xml:lang="x-repair">A Large-Scale Robustness Analysis of Video Action Recognition Models</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <dc:subject>
+            <rdf:Bag>
+               <rdf:li>Datasets and evaluation</rdf:li>
+            </rdf:Bag>
+         </dc:subject>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Madeline Chantry Schiappa</rdf:li>
+               <rdf:li>Naman Biyani</rdf:li>
+               <rdf:li>Prudvi Kamtam</rdf:li>
+               <rdf:li>Shruti Vyas</rdf:li>
+               <rdf:li>Hamid Palangi</rdf:li>
+               <rdf:li>Vibhav Vineet</rdf:li>
+               <rdf:li>Yogesh Rawat</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <prism:publicationName>2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</prism:publicationName>
+         <prism:startingPage>14698</prism:startingPage>
+         <prism:coverDisplayDate>  June 2023</prism:coverDisplayDate>
+         <prism:doi>10.1109/CVPR52729.2023.01412</prism:doi>
+         <prism:endingPage>14708</prism:endingPage>
+         <jav:journal_article_version>VoR</jav:journal_article_version>
+         <xmp:CreateDate>2023-07-26T16:52:43Z</xmp:CreateDate>
+         <xmp:ModifyDate>2023-09-26T17:38:11+08:00</xmp:ModifyDate>
+         <xmp:MetadataDate>2023-09-26T17:38:11+08:00</xmp:MetadataDate>
+         <pdfx:IEEEâ†‚0020Articleâ†‚0020ID>10203758</pdfx:IEEEâ†‚0020Articleâ†‚0020ID>
+         <pdfx:IEEEâ†‚0020Issueâ†‚0020ID>10203050</pdfx:IEEEâ†‚0020Issueâ†‚0020ID>
+         <pdfx:IEEEâ†‚0020Publicationâ†‚0020ID>10203037</pdfx:IEEEâ†‚0020Publicationâ†‚0020ID>
+         <pdfx:Meetingâ†‚0020Endingâ†‚0020Date>24 June 2023</pdfx:Meetingâ†‚0020Endingâ†‚0020Date>
+         <pdfx:Meetingâ†‚0020Startingâ†‚0020Date>17 June 2023</pdfx:Meetingâ†‚0020Startingâ†‚0020Date>
+         <pdf:Producer>OpenPDF 1.0.0-SNAPSHOT; modified using iTextSharp 5.0.2 (c) 1T3XT BVBA; modified using iTextÂ® Core 7.2.4 (AGPL version) Â©2000-2022 iText Group NV</pdf:Producer>
+         <xmpMM:DocumentID>uuid:bef5512a-09bf-4a16-bf53-f2dab4aa011a</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:e9f3fada-b521-4017-8083-4fc79197a6d6</xmpMM:InstanceID>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+endstreamendobj4 0 obj<</Author(Madeline Chantry Schiappa)/CreationDate(D:20230726165243Z)/IEEE#20Article#20ID(10203758)/IEEE#20Issue#20ID(10203050)/IEEE#20Publication#20ID(10203037)/Meeting#20Ending#20Date(24 June 2023)/Meeting#20Starting#20Date(17 June 2023)/ModDate(D:20230926173811+08'00')/Producer(OpenPDF 1.0.0-SNAPSHOT; modified using iTextSharp 5.0.2 \(c\) 1T3XT BVBA; modified using iText® Core 7.2.4 \(AGPL version\) ©2000-2022 iText Group NV)/Subject(2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition \(CVPR\);2023; ; ;10.1109/CVPR52729.2023.01412)/Title(A Large-Scale Robustness Analysis of Video Action Recognition Models)>>endobj7 0 obj<</Annots 287 0 R/Contents[18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R]/CropBox[0 0 612 792]/MediaBox[0 0 612 792]/Parent 5 0 R/Resources<</ColorSpace<</CS0[/ICCBased 29 0 R]>>/ExtGState<</GS2 30 0 R/GS3 31 0 R>>/Font<</F11 42 0 R/T1_0 32 0 R/T1_1 34 0 R/T1_2 33 0 R/T1_3 39 0 R/T1_4 38 0 R/T1_5 41 0 R/T1_6 40 0 R/T1_7 37 0 R/Xi0 35 0 R/Xi1 36 0 R>>/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]/XObject<</Im0 44 0 R/Im1 43 0 R>>>>/Rotate 0/Thumb 28 0 R/Type/Page>>endobj287 0 obj[288 0 R 289 0 R]endobj288 0 obj<</AP<</N 290 0 R>>/C[1.0 0.501968 0.615692]/CA 0.399994/CreationDate(D:20230926173757+08'00')/F 4/M(D:20230926173802+08'00')/NM(b5825cb3-b6d0-46e4-b709-7c57d31f4eaf)/P 7 0 R/Popup 289 0 R/QuadPoints[188.972 461.902 297.141 461.902 188.972 450.007 297.141 450.007 59.2307 449.947 103.557 449.947 59.2307 438.052 103.557 438.052]/Rect[56.0553 437.68 300.317 462.274]/Subj(þÿšØN®)/Subtype/Highlight/T(26771)/Type/Annot>>endobj289 0 obj<</F 28/Open false/Parent 288 0 R/Rect[612.0 347.902 816.0 461.902]/Subtype/Popup/Type/Annot>>endobj290 0 obj<</BBox[0.0 0.0 244.261 24.5937]/FormType 1/Length 27/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</R0<</AIS false/CA 0.399994/Type/ExtGState/ca 0.399994>>/R1<</AIS false/BM/Multiply/Type/ExtGState>>>>/ProcSet[/PDF]/XObject<</MWFOForm 291 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/R0 gs
+/R1 gs
+/MWFOForm Do
+
+endstreamendobj291 0 obj<</BBox[0.0 0.0 244.261 24.5937]/FormType 1/Group<</S/Transparency>>/Length 9/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ProcSet[/PDF]/XObject<</Form 292 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/Form Do
+
+endstreamendobj292 0 obj<</BBox[56.0553 437.68 300.317 462.274]/Filter[/FlateDecode]/FormType 1/Length 159/Matrix[1.0 0.0 0.0 1.0 -56.0553 -437.68]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+H‰LŽ1Ã0EwŸ‚ À€á<‘Ú%]ºôúÅRbgƒ'Þç3qzÔàlžßw#Ú~#0‡tP#$ŸbŽìaÅƒ)áA)Ãa{Î˜TÃÑ$²2ovKLÕØæƒ\éÛ»;íÕê^:ÐH&RÅÌQ¥ˆ†YÂÚ§ß–¢óÅ˜˜:šUäbg1Çî[|+z{÷ûÙé/À óÙAI
+endstreamendobjxref
+0 1
+0000000000 65535 f
+2 1
+0001933390 00000 n
+4 1
+0001939243 00000 n
+7 1
+0001939892 00000 n
+287 6
+0001940394 00000 n
+0001940429 00000 n
+0001940865 00000 n
+0001940977 00000 n
+0001941325 00000 n
+0001941561 00000 n
+trailer
+<</Size 293/Root 1 0 R/Info 4 0 R/ID[<CD0306F39928FE53C1614703C0EB7F95><E90B26249A355D42BA85FE7ED772DBF0>]/Prev 1927491>>
+startxref
+1941936
+%%EOF
